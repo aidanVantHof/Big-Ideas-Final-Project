@@ -8,7 +8,7 @@ Aidan Van't Hof - alv115@pitt.edu
 
 Ian O'Leary - 
 
-Kiro Shaker - 
+Kiro Shaker - kms475@pitt.edu
 
 The locations of playground in different neighborhoods in Pittsburgh
 
