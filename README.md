@@ -6,7 +6,7 @@ Team Members:
 
 Aidan Van't Hof - alv115@pitt.edu
 
-Ian O'Leary - 
+Ian O'Leary - ido7@pitt.edu
 
 Kiro Shaker - kms475@pitt.edu
 
