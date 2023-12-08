@@ -5,6 +5,8 @@ Description: This repository contains three different data sets about the neighb
 
 Group Name: The 43ers
 
+Canvas Group Number: 43
+
 Team Members:
 
 Aidan Van't Hof - alv115@pitt.edu
